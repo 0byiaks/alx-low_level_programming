@@ -2,12 +2,12 @@
 #define MAIN_H_INCLUDED
 
 /**
- * File: main.h - header file for the program  
- *
- * Auth - Mosi
- * Desc - contains all functions used
- * Return: Always returns 0(success)
- */
+  * File: main.h - header file for the program  
+  *
+  * Auth - Mosi
+  * Desc - contains all functions used
+  * Return: Always returns 0(success)
+  */
 
 int _putchar(char c);
 int main(void);
