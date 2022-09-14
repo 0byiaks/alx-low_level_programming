@@ -12,7 +12,7 @@ int main(void)
 	unsigned long int first_af, snd_af;
 	int i;
 
-	i =1;
+	i = 1;
 	prev = 1;
 	next = 2;
 	printf("%lu, %lu, ", prev, next);
