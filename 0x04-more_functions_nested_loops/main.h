@@ -7,6 +7,7 @@
  * Desc - contains all functions used
  * Return: Always returns 0(success)
  */
+
 int _putchar(char c);
 
 int main(void);
